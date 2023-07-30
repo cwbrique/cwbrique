@@ -2,8 +2,6 @@
 - 💻 learning to program: C++, FronEnd, BackEnd ...
 - 📫 How to reach me, Discord: @cwbrique ...
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
           
 
 <!---
