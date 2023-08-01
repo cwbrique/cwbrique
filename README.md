@@ -7,8 +7,8 @@
 ## Status 📊
 <div align="center">
 <h2>Discord</h2>
- <a href="https://discord.com/users/1015845680067133480">
- <img src="https://lanyard-profile-readme.vercel.app/api/1015845680067133480"></a>
+ <a href="https://discord.com/users/1025467844172992533">
+ <img src="https://lanyard-profile-readme.vercel.app/api/1025467844172992533"></a>
 </div>
 <div align="center">
 <a href="https://github.com/cwbrique">
