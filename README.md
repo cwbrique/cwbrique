@@ -5,7 +5,6 @@
 - 📫 How to reach me, Discord: @cwbrique ...
   
 ## Status 📊
-[![Discord Presence](https://lanyard.cnrad.dev/api/1025467844172992533)](https://discord.com/users/1025467844172992533)
 <div align="center">
 <a href="https://github.com/cwbrique">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cwbrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
