@@ -5,7 +5,11 @@
 - 📫 How to reach me, Discord: @cwbrique ...
   
 ## Status 📊
-
+<div align="center">
+<h2>Discord</h2>
+ <a href="https://discord.com/users/1015845680067133480">
+ <img src="https://lanyard-profile-readme.vercel.app/api/1015845680067133480"></a>
+</div>
 <div align="center">
 <a href="https://github.com/cwbrique">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cwbrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
