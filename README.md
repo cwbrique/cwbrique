@@ -4,9 +4,9 @@
 - 💻 learning to program: C++, FronEnd, BackEnd ...
 - 📫 How to reach me, Discord: @cwbrique ...
   
-
-<div align="center">
 ## Status 📊
+<div align="center">
+##
 <a href="https://github.com/cwbrique">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cwbrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwbrique&layout=compact&langs_count=7&theme=github_dark"/>
