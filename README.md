@@ -3,9 +3,8 @@
 - 👋 Hi, I'm @cwbrique, alias </RT>.
 - 💻 learning to program: C++, FronEnd, BackEnd ...
 - 📫 How to reach me, Discord: @cwbrique ...
-  <div align="center">
-  ## Status 📊
-</div>
+
+## Status 📊
 
 <div align="center">
 
