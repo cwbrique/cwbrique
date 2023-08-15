@@ -1,8 +1,12 @@
 ## Olá, eu sou Henrique, aprendendo nesse mundo tão grande. Olá mundo! 👾
 
 - 👋 Hi, I'm @cwbrique, alias </RT>.
-- 💻 learning to program: C++, FronEnd, BackEnd ...
+- 💻 learning to program: FronEnd, BackEnd ...
 - 📫 How to reach me, Discord: @cwbrique ...
+
+### Languages I Know:
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,lua)]()
 
 ## Status 📊
 
