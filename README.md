@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://github.com/cwbrique">
-<img height="135em" src="https://github-readme-stats.vercel.app/api?username=cwbrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=cwbrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   <div align="center">
 
